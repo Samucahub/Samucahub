@@ -12,10 +12,10 @@
   </p>
 
   <h2 style="color: #FF5733; font-weight: bold;">🧠 My Skills</h2>
-  <ul style="list-style-type: none; text-align: left; display: inline-block;">
-    <li>🔰 Cybersecurity</li>
-    <li>💻 Programming</li>
-    <li>🔍 Security Research</li>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="text-align: center;">🔰 Cybersecurity</li>
+    <li style="text-align: center;">💻 Programming</li>
+    <li style="text-align: center;">🔍 Security Research</li>
   </ul>
 
   <h2 style="color: #FF5733; font-weight: bold;">🌐 Languages</h2>

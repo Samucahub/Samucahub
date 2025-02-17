@@ -1,14 +1,14 @@
 <div align="center">
   <!-- Welcome Message with Animation -->
   <h1 style="font-family: 'Fira Code', monospace; color: #00FF00;">
-    🌟 Welcome to My Profile 🌟
+    🚀 Welcome to My Profile 🚀
   </h1>
-  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" alt="Welcome Animation" width="300"/>
+  <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif" alt="Welcome Animation" width="300"/>
 
   <h2 style="font-family: 'Fira Code', monospace; color: #FF5733;">👤 Who Am I?</h2>
   <p>
     Hello! I'm <strong>Samucahub</strong>, a passionate <em>Cybersecurity Enthusiast</em> and <em>Ethical Hacker</em>. 
-    I love exploring the world of programming and security research! 🚀
+    I love exploring the world of programming and security research! 🔥
   </p>
 
   <h2 style="font-family: 'Fira Code', monospace; color: #FF5733;">🧠 My Skills</h2>
@@ -20,7 +20,7 @@
 
   <h2 style="font-family: 'Fira Code', monospace; color: #FF5733;">🌐 Languages</h2>
   <p>
-    I speak: <strong>Indonesian (id_ID)</strong>, <strong>Portuguese (pt_PT)</strong>
+    I speak: <strong>Portuguese (pt_PT)</strong>, <strong>English (en_US)</strong>
   </p>
 
   <h2 style="font-family: 'Fira Code', monospace; color: #FF5733;">💻 Programming Languages</h2>
@@ -60,9 +60,7 @@
   <img src="https://profile-counter.glitch.me/Samucahub/count.svg" alt="Profile Views"/>
 
   <!-- Fun GIF to End -->
-  <img src="https://media.giphy.com/media/26gJz3g0g0g0g0g0g/giphy.gif" alt="Thank You Animation" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" alt="Thank You Animation" width="300"/>
   
   <h2 style="font-family: 'Fira Code', monospace; color: #00FF00;">🎉 Thank You for Visiting! 🎉</h2>
 </div>
-
-

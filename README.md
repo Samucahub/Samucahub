@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%E2%AD%90+Welcome+to+Samucahub's+Terminal+%E2%AD%90;root%40Samucahub%3A%7E%23+whoami;%F0%9F%94%B0+Cybersecurity+Enthusiast+%7C+Ethical+Hacker+%F0%9F%94%B0;%F0%9F%92%BB+Programmer+%7C+Security+Researcher+%F0%9F%92%BB" alt="Typing SVG" />
   </div>
 
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/cat-computer.gif">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/cat-computer.gif" width="200">
 
   <h2>🌟 About Me 🌟</h2>
   
@@ -16,8 +16,6 @@
           self.language_spoken = ["pt_PT", "en_US"]
           self.interests = ["Cybersecurity", "Ethical Hacking", "Programming"]
   ```
-
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/cat-computer.gif">
 
   <h2>💫 Connect With Me 💫</h2>
   <p>
@@ -45,8 +43,6 @@
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </p>
-
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/cat-computer.gif">
 
   <h4>👁️ Profile Views</h4>
   <img src="https://profile-counter.glitch.me/Samucahub/count.svg"/>

@@ -1,57 +1,53 @@
-<div align="center" style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 10px; font-family: 'Roboto', sans-serif;">
+<div align="center" style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 10px; font-family: 'Fira Code', monospace;">
   <!-- Welcome Message with Animation -->
-  <h1 style="color: #00FF00; font-weight: bold;">
-    🚀 Welcome to My Profile 🚀
-  </h1>
-  <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif" alt="Welcome Animation" width="300"/>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%E2%AD%90+Welcome+to+Samucahub's+Terminal+%E2%AD%90;root%40Samucahub%3A%7E%23+whoami;%F0%9F%94%B0+Cybersecurity+Enthusiast+%7C+Ethical+Hacker+%F0%9F%94%B0;%F0%9F%92%BB+Programmer+%7C+Security+Researcher+%F0%9F%92%BB" alt="Typing SVG" />
+  </div>
 
-  <h2 style="color: #FF5733; font-weight: bold;">👤 Who Am I?</h2>
-  <p>
-    Hello! I'm <strong>Samucahub</strong>, a passionate <em>Cybersecurity Enthusiast</em> and <em>Ethical Hacker</em>. 
-    I love exploring the world of programming and security research! 🔥
-  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h2 style="color: #FF5733; font-weight: bold;">🧠 My Skills</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="text-align: center;">🔰 Cybersecurity</li>
-    <li style="text-align: center;">💻 Programming</li>
-    <li style="text-align: center;">🔍 Security Research</li>
-  </ul>
+  <h2>🌟 About Me 🌟</h2>
+  
+  ```python
+  class Samucahub:
+      def __init__(self):
+          self.name = "Samucahub"
+          self.role = "Cybersecurity Enthusiast"
+          self.language_spoken = ["pt_PT", "en_US"]
+          self.interests = ["Cybersecurity", "Ethical Hacking", "Programming"]
+  ```
 
-  <h2 style="color: #FF5733; font-weight: bold;">🌐 Languages</h2>
-  <p>
-    I speak: <strong>Portuguese (pt_PT)</strong>, <strong>English (en_US)</strong>
-  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h2 style="color: #FF5733; font-weight: bold;">💻 Programming Languages</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </p>
-
-  <h2 style="color: #FF5733; font-weight: bold;">🛠 Tools & Platforms</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </p>
-
-  <h2 style="color: #FF5733; font-weight: bold;">📫 Connect With Me</h2>
+  <h2>💫 Connect With Me 💫</h2>
   <p>
     <a href="mailto:sasageyo960@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://twitter.com/yourprofile">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)"/>
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="https://instagram.com/yourprofile">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
   </p>
-
-  <h2 style="color: #FF5733; font-weight: bold;">👁️ Profile Views</h2>
-  <img src="https://profile-counter.glitch.me/Samucahub/count.svg" alt="Profile Views"/>
   
-  <h2 style="color: #00FF00; font-weight: bold;">🎉 Thank You for Visiting! 🎉</h2>
+  <h3>👨‍💻 Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </p>
+
+  <h3>🛠 Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <h4>👁️ Profile Views</h4>
+  <img src="https://profile-counter.glitch.me/Samucahub/count.svg"/>
 </div>

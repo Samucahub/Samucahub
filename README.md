@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%E2%AD%90+Welcome+to+Samucahub's+Terminal+%E2%AD%90;root%40Samucahub%3A%7E%23+whoami;%F0%9F%94%B0+Cybersecurity+Enthusiast+%7C+Ethical+Hacker+%F0%9F%94%B0;%F0%9F%92%BB+Programmer+%7C+Security+Researcher+%F0%9F%92%BB" alt="Typing SVG" />
   </div>
 
-  <img src="[https://tenor.com/pt-PT/view/computer-cat-working-type-typing-gif-7817705](https://tenor.com/pt-PT/view/computer-cat-working-type-typing-gif-7817705)" width="200">
+<div class="tenor-gif-embed" data-postid="7817705" data-share-method="host" data-aspect-ratio="1.75" data-width="100%"><a href="https://tenor.com/view/computer-cat-working-type-typing-gif-7817705">Computer Cat GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="" width="200">
 
   <h2>🌟 About Me 🌟</h2>
   

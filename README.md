@@ -1,7 +1,7 @@
 <div align="center" style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 10px; font-family: 'Fira Code', monospace;">
   <!-- Welcome Message with Animation -->
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%E2%AD%90+Welcome+to+Samucahub's+Terminal+%E2%AD%90;root%40Samucahub%3A%7E%23+whoami;%F0%9F%94%B0+Cybersecurity+%7C+Ethical+Hacker+%F0%9F%94%B0;%F0%9F%92%BB+Programmer+%7C+C+%7C+Python+%7C+C'#'+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%E2%AD%90+Welcome+to+Samucahub's+Terminal+%E2%AD%90;root%40Samucahub%3A%7E%23+whoami;%F0%9F%94%B0+Cybersecurity+%7C+Ethical+Hacker+%F0%9F%94%B0;%F0%9F%92%BB+Programmer+%7C+C+%7C+Python+%7C+Csharp+%F0%9F%92%BB" alt="Typing SVG" />
   </div>
 
   <img src="https://tenor.com/GXUb.gif" width="200">
@@ -31,11 +31,11 @@
   </p>
   
   <h3>👨‍💻 Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
 
   <h3>🛠 Tools & Platforms</h3>
   <p>

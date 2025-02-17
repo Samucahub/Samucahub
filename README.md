@@ -1,7 +1,7 @@
 <div align="center" style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 10px; font-family: 'Fira Code', monospace;">
   <!-- Welcome Message with Animation -->
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%E2%AD%90+Welcome+to+Samucahub's+Terminal+%E2%AD%90;root%40Samucahub%3A%7E%23+whoami;%F0%9F%94%B0+Cybersecurity+%7C+Ethical+Hacker+%F0%9F%94%B0;%F0%9F%92%BB+Programmer+%7C+C+%7C+Python+%7C+Csharp+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%E2%AD%90+Welcome+to+Samucahub's+Terminal+%E2%AD%90;root%40Samucahub%3A%7E%23+whoami;%F0%9F%94%B0+Cybersecurity+%7C+Ethical+Hacker+%F0%9F%94%B0;%F0%9F%92%BB+Programmer+%7C+C+%7C+Python+%7C+C%23-239120+%F0%9F%92%BB" alt="Typing SVG" />
   </div>
 
   <img src="https://tenor.com/GXUb.gif" width="200">

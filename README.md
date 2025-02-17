@@ -46,7 +46,7 @@
   <h2 style="font-family: 'Fira Code', monospace; color: #FF5733;">📫 Connect With Me</h2>
   <p>
     <a href="mailto:sasageyo960@gmail.com">
-           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://t.me/hellojura">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -60,8 +60,9 @@
   <img src="https://profile-counter.glitch.me/Samucahub/count.svg" alt="Profile Views"/>
 
   <!-- Fun GIF to End -->
-  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" alt="Thank You Animation" width="300"/>
+  <img src="https://media.giphy.com/media/26gJz3g0g0g0g0g0g/giphy.gif" alt="Thank You Animation" width="300"/>
   
   <h2 style="font-family: 'Fira Code', monospace; color: #00FF00;">🎉 Thank You for Visiting! 🎉</h2>
 </div>
+
 

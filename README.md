@@ -7,14 +7,14 @@
 
 <h2>🌟 About Me 🌟</h2>
 
-´´´python
-class Samucahub:
+ ```python
+  class Samucahub:
       def __init__(self):
           self.name = "Samucahub"
-          self.role = "Cybersecurity"
+          self.role = "Cybersecurity Enthusiast"
           self.language_spoken = ["pt_PT", "en_US"]
           self.interests = ["Cybersecurity", "Ethical Hacking", "Programming"]
-´´´
+  ```
 
   <h2>💫 Connect With Me 💫</h2>
   <p>

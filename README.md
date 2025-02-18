@@ -7,32 +7,14 @@
 
 <h2>🌟 About Me 🌟</h2>
 
-<pre><code>
-#include <stdio.h>
-
-struct Samucahub {
-    char name[20];
-    char role[20];
-    char language_spoken[2][10];
-    char interests[3][20];
-};
-
-int main() {
-    struct Samucahub user = {
-        "Samucahub",
-        "Cybersecurity",
-        {"pt_PT", "en_US"},
-        {"Cybersecurity", "Ethical Hacking", "Programming"}
-    };
-
-    printf("Name: %s\n", user.name);
-    printf("Role: %s\n", user.role);
-    printf("Languages: %s, %s\n", user.language_spoken[0], user.language_spoken[1]);
-    printf("Interests: %s, %s, %s\n", user.interests[0], user.interests[1], user.interests[2]);
-
-    return 0;
-}
-</code></pre>
+´´´python
+class Samucahub:
+      def __init__(self):
+          self.name = "Samucahub"
+          self.role = "Cybersecurity"
+          self.language_spoken = ["pt_PT", "en_US"]
+          self.interests = ["Cybersecurity", "Ethical Hacking", "Programming"]
+´´´
 
   <h2>💫 Connect With Me 💫</h2>
   <p>

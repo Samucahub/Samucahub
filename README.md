@@ -5,10 +5,10 @@
   </div>
 <img src="Ao.gif" width="300">
 
-  ## 🌟 About Me 🌟
-  
-  ```C
-  #include <stdio.h>
+<h2>🌟 About Me 🌟</h2>
+
+<pre><code>
+#include <stdio.h>
 
 struct Samucahub {
     char name[20];
@@ -32,8 +32,7 @@ int main() {
 
     return 0;
 }
-
-  ```
+</code></pre>
 
   <h2>💫 Connect With Me 💫</h2>
   <p>

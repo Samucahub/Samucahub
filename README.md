@@ -5,7 +5,7 @@
   </div>
 <img src="Ao.gif" width="300">
 
-  ##🌟 About Me 🌟
+  ## 🌟 About Me 🌟
   
   ```C
   #include <stdio.h>

@@ -50,7 +50,4 @@
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </p>
-
-  <h4>👁️ Profile Views</h4>
-  <img src="https://profile-counter.glitch.me/Samucahub/count.svg"/>
 </div>

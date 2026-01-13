@@ -8,15 +8,15 @@
 <h2>🌟 About Me 🌟</h2>
 
   ```python
-  import sanity
+import sanity
 
-  # I am
-  while coffe > 0:
-        if hacking == needAutomation:
-            programmer = true
+# I am
+while coffe > 0:
+  if hacking == needAutomation:
+      programmer = true
 
-        if myProgram != Emotion:
-            hacker = true
+  if myProgram != Emotion:
+      hacker = true
   ```
 
   <h2>💫 Connect With Me 💫</h2>

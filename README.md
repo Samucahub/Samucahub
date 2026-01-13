@@ -8,12 +8,15 @@
 <h2>🌟 About Me 🌟</h2>
 
   ```python
-  class Samucahub:
-  def __init__(self):
-  self.name = "Samucahub"
-  self.role = "Cybersecurity"
-  self.language_spoken = ["pt_PT", "en_US"]
-  self.interests = ["Cybersecurity", "Ethical Hacking", "Programming"]
+  import sanity
+
+  # I am
+  while coffe > 0:
+        if hacking == needAutomation:
+            programmer = true
+
+        if myProgram != Emotion:
+            hacker = true
   ```
 
   <h2>💫 Connect With Me 💫</h2>

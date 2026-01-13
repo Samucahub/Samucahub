@@ -7,17 +7,17 @@
 
 <h2>🌟 About Me 🌟</h2>
 
-  ```python
+```python
 import sanity
 
 # I am
-while coffe > 0:
-  if hacking == needAutomation:
-      programmer = true
+while coffee > 0:
+    if hacking == need_automation:
+        programmer = True
 
-  if myProgram != Emotion:
-      hacker = true
-  ```
+    if my_program != Emotion:
+        hacker = True
+```
 
   <h2>💫 Connect With Me 💫</h2>
   <p>

@@ -1,54 +1,185 @@
-<div align="center" style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 10px; font-family: 'Fira Code', monospace;">
-  <!-- Welcome Message with Animation -->
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00CCFF&center=true&vCenter=true&width=700&lines=%E2%AD%90+Welcome+to+TheArchitect's+Terminal+%E2%AD%90;root%40TheArquitect%3A%7E%23+whoami;%F0%9F%94%90+Cybersecurity+%7C+Ethical+Hacker+%F0%9F%94%90;%F0%9F%92%BB+Programmer+%7C+C+%7C+Python+%7C+C%23+%F0%9F%92%BB" alt="Typing SVG"/>
-  </div>
-<img src="Ao.gif" width="200">
+---
 
-<h2>🌟 About Me 🌟</h2>
+<p align="center">
+────────────────────────────────────────────────────────
+</p>
 
-```python
-import sanity
+<div align="center">
 
-# I am
-while coffee > 0:
-    if hacking == need_automation:
-        programmer = True
+> “Any sufficiently complex system eventually becomes a debugging session.”
 
-    if my_program != Emotion:
-        hacker = True
+</div>
+
+<p align="center">
+────────────────────────────────────────────────────────
+</p>
+
+---
+
+## system.profile
+
+```text
+id: thearchitect
+primary_role: software engineer(almost)
+secondary_interest: cybersecurity
+
+main_objective:
+  build systems
+  understand systems
+  prevent systems from betraying their creators
 ```
 
-  <h2>💫 Connect With Me 💫</h2>
-  <p>
-    <a href="https://x.com/CyberSamu_">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/cybersamu_/">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/samuel-rocha-3a630731a/">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-  </p>
-  
-  <h3>👨‍💻 Programming Languages</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+```text
+runtime_state:
+  learning
+  experimenting
+  occasionally breaking things
+```
 
-  <h3>🛠 Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </p>
-</div>
+---
+
+<p align="center">
+────────────────────────────────────────────────────────
+</p>
+
+---
+
+## background.processes
+
+```text
+things usually running in my brain:
+
+- how this system actually works
+- how this design could be simplified
+- what happens if someone tries to break it
+- whether this tool could be automated
+```
+
+```text
+side_effects may include:
+
+refactoring things that worked fine
+rewriting scripts that already existed
+opening 17 documentation tabs
+```
+
+---
+
+<p align="center">
+────────────────────────────────────────────────────────
+</p>
+
+---
+
+## repository.contents
+
+```text
+this profile contains:
+
+tools/
+  small utilities built to solve problems
+
+experiments/
+  projects made while exploring ideas
+
+scripts/
+  things that automated other things
+
+concepts/
+  attempts to understand systems better
+```
+
+```text
+quality.level:
+  some polished
+  some experimental
+  all part of the process
+```
+
+---
+
+<p align="center">
+────────────────────────────────────────────────────────
+</p>
+
+---
+
+## engineering.method
+
+```text
+typical development flow:
+
+idea
+ ↓
+build something simple
+ ↓
+realize the design is bad
+ ↓
+rebuild it properly
+ ↓
+make it reliable
+ ↓
+make it secure
+```
+
+```text
+skipping the last step is generally not recommended
+```
+
+---
+
+<p align="center">
+────────────────────────────────────────────────────────
+</p>
+
+---
+
+## tools.environment
+
+```text
+os: linux
+languages: python
+interfaces: bash
+version_control: git
+interest_level: systems + security
+```
+
+```text
+toolchains change over time
+
+understanding systems stays useful
+```
+
+---
+
+<p align="center">
+────────────────────────────────────────────────────────
+</p>
+
+---
+
+## current.state
+
+```text
+projects.active++
+ideas.pending++
+things_to_learn++
+
+bugs.created++
+bugs.fixed++
+```
+
+```text
+system.status = operational
+```
+
+---
+
+<p align="center">
+────────────────────────────────────────────────────────
+</p>
+
+```text
+note:
+most bugs start as perfectly reasonable assumptions
+```

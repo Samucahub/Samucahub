@@ -6,7 +6,7 @@
 
 <p align="center">
 
-*"Any sufficiently complex system eventually becomes a debugging session."*
+*"Any sufficiently complex system eventually becomes a vulnerability session."*
 
 </p>
 

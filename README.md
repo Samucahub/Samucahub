@@ -74,7 +74,6 @@ rough development cycle:
 ```
 idea
  → build something simple
- → realize design problems
  → rebuild it properly
  → make it reliable
  → make it secure

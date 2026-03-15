@@ -33,16 +33,16 @@ Building things, breaking systems, and learning from the chaos.
 
 <p align="center">
   <a href="https://github.com/Samucahub/NataBase">
-    <img src="assets/natabase.png" height="150"/>
+    <img src="assets/natabase.png" height="120"/>
   </a>
   <a href="https://github.com/0xadamastor/C.A.L.M.A.">
-    <img src="assets/calma.png" height="150"/>
+    <img src="assets/calma.png" height="120"/>
   </a>
   <a href="https://github.com/Samucahub/cromometro">
-    <img src="assets/cromometro.png" height="150"/>
+    <img src="assets/cromometro.png" height="120"/>
   </a>
   <a href="https://github.com/Samucahub/mimic">
-    <img src="assets/mimic.png" height="150"/>
+    <img src="assets/mimic.png" height="120"/>
   </a>
 </p>
 

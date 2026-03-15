@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/thearchitect.jpg" alt="logo"/>
+  <img src="assets/thearchitect.png" alt="logo"/>
 </p>
 
 # New Profile - Coming soon...

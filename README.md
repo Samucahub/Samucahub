@@ -29,11 +29,21 @@ Building things, breaking systems, and learning from the chaos.
 
 # Projects
 
+# Projects
+
 <p align="center">
-    <img src="assets/natabase.png" width="120"/>
-    <img src="assets/calma.png" width="120"/>
-    <img src="assets/cromometro.png" width="120"/>
-    <img src="assets/mimic.png" width="120"/>
+  <a href="https://github.com/Samucahub/NataBase">
+    <img src="assets/natabase.png" height="90" style="margin: 0 25px;"/>
+  </a>
+  <a href="https://github.com/0xadamastor/C.A.L.M.A">
+    <img src="assets/calma.png" height="90" style="margin: 0 25px;"/>
+  </a>
+  <a href="https://github.com/Samucahub/cromometro">
+    <img src="assets/cromometro.png" height="90" style="margin: 0 25px;"/>
+  </a>
+  <a href="https://github.com/Samucahub/mimic">
+    <img src="assets/mimic.png" height="90" style="margin: 0 25px;"/>
+  </a>
 </p>
 
 # New Profile - Coming soon...

@@ -58,7 +58,9 @@ Building things, breaking systems, and learning from the chaos.
 <table>
 <tr>
 <td width="150">
-<img src="https://github.com/RodrigoCybersecurity.png" width="120">
+<a href="https://github.com/0xadamastor">
+  <img src="https://github.com/RodrigoCybersecurity.png" width="120">
+</a>
 </td>
 <td>
 

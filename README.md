@@ -27,4 +27,13 @@ Building things, breaking systems, and learning from the chaos.
   <img src="assets/mytoys.png" alt="logo"/>
 </p>
 
+# Projects
+
+<p align="center">
+    <img src="assets/natabase.png" width="120"/>
+    <img src="assets/calma.png" width="120"/>
+    <img src="assets/cromometro.png" width="120"/>
+    <img src="assets/mimic.png" width="120"/>
+</p>
+
 # New Profile - Coming soon...

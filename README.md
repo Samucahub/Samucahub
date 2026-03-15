@@ -15,6 +15,8 @@ Building things, breaking systems, and learning from the chaos.
 
 # About me
 
+> **If I had to describe myself in one sentence...**
+
 <p align="center">
   <img src="assets/chaosengineer.png" alt="logo"/>
 </p>

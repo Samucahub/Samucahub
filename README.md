@@ -21,7 +21,6 @@ Building things, breaking systems, and learning from the chaos.
   <img src="assets/chaosengineer.png" alt="logo"/>
 </p>
 
----
 
 # Skills
 
@@ -29,7 +28,6 @@ Building things, breaking systems, and learning from the chaos.
   <img src="assets/mytoys.png" alt="logo"/>
 </p>
 
----
 
 # Projects
 
@@ -55,8 +53,47 @@ Building things, breaking systems, and learning from the chaos.
   <img src="assets/beatrooter.png" alt="logo"/>
 </p>
 
----
-
 # Team
+
+<table>
+<tr>
+<td width="150">
+<img src="assets/rodrigo.png" width="120">
+</td>
+<td>
+
+A man as full of ideas as he is of experience.  
+He points us in the right direction and takes care of everything that is democratically boring.  
+He says he has no skills, but honestly, putting up with us is already a huge skill in my opinion.
+
+</td>
+</tr>
+
+<tr>
+<td width="150">
+<img src="assets/rafa.png" width="120">
+</td>
+<td>
+
+
+Our professional system breaker.  
+He finds more vulnerabilities than girlfriends.
+
+</td>
+</tr>
+
+<tr>
+<td width="150">
+<img src="assets/ze.png" width="120">
+</td>
+<td>
+
+Probably the most creative guy around.  
+Creator of our name, logos and most of the designs used in our sites and apps.
+
+</td>
+</tr>
+
+</table>
 
 # New Profile - Coming soon...

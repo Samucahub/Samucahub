@@ -110,4 +110,8 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 
 </table>
 
-# New Profile - Coming soon...
+# Connect Me
+
+<p align="center">
+  <img src="assets/connect.png" alt="logo"/>
+</p>

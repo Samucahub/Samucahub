@@ -21,4 +21,10 @@ Building things, breaking systems, and learning from the chaos.
   <img src="assets/chaosengineer.png" alt="logo"/>
 </p>
 
+# My Skills
+
+<p align="center">
+  <img src="assets/mytoys.png" alt="logo"/>
+</p>
+
 # New Profile - Coming soon...

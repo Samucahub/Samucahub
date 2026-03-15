@@ -13,7 +13,7 @@ Building things, breaking systems, and learning from the chaos.
 
 ---
 
-<h1> About me </h1>
+# About me
 
 > **If I had to describe myself in one sentence...**
 
@@ -21,13 +21,17 @@ Building things, breaking systems, and learning from the chaos.
   <img src="assets/chaosengineer.png" alt="logo"/>
 </p>
 
+---
+
 # Skills
 
 <p align="center">
   <img src="assets/mytoys.png" alt="logo"/>
 </p>
 
-<h2 align="left">Projects</h2>
+---
+
+# Projects
 
 <p align="center">
   <a href="https://github.com/Samucahub/NataBase">
@@ -50,5 +54,9 @@ Building things, breaking systems, and learning from the chaos.
 <p align="center">
   <img src="assets/beatrooter.png" alt="logo"/>
 </p>
+
+---
+
+# Team
 
 # New Profile - Coming soon...

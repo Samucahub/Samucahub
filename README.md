@@ -33,7 +33,7 @@ Building things, breaking systems, and learning from the chaos.
 
 <p align="center">
   <a href="https://github.com/Samucahub/NataBase">
-    <img src="assets/natabase.png" height="150" style="margin: 0 50px;"/>
+    <img src="assets/natabase.png" height="150" style="margin: 0 500px;"/>
   </a>
   <a href="https://github.com/0xadamastor/C.A.L.M.A.">
     <img src="assets/calma.png" height="150" style="margin: 0 50px;"/>

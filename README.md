@@ -21,7 +21,7 @@ Building things, breaking systems, and learning from the chaos.
   <img src="assets/chaosengineer.png" alt="logo"/>
 </p>
 
-# My Skills
+# Skills
 
 <p align="center">
   <img src="assets/mytoys.png" alt="logo"/>

@@ -58,38 +58,52 @@ Building things, breaking systems, and learning from the chaos.
 <table>
 <tr>
 <td width="150">
-<img src="assets/rodrigo.png" width="120">
+<img src="assets/devilboy.png" width="120">
 </td>
 <td>
 
-A man as full of ideas as he is of experience.  
-He points us in the right direction and takes care of everything that is democratically boring.  
+<b>DevilBoy</b>
+
+A man as full of ideas as he is of experience.
+He points us in the right direction and takes care of everything that is democratically boring.
 He says he has no skills, but honestly, putting up with us is already a huge skill in my opinion.
 
-</td>
-</tr>
-
-<tr>
-<td width="150">
-<img src="assets/rafa.png" width="120">
-</td>
-<td>
-
-
-Our professional system breaker.  
-He finds more vulnerabilities than girlfriends.
+Thanks Rodrigo, for putting up with us.
 
 </td>
 </tr>
 
 <tr>
 <td width="150">
-<img src="assets/ze.png" width="120">
+<img src="assets/0xadamastor.png" width="120">
 </td>
 <td>
 
-Probably the most creative guy around.  
-Creator of our name, logos and most of the designs used in our sites and apps.
+<b>0xAdamastor</b>
+
+Why is Rafa important to the team?
+Well... he... is a good person.
+
+Just kidding. He’s our professional system breaker.
+He finds more vulnerabilities than girlfriends!
+
+My favorite Q&A 💋
+
+</td>
+</tr>
+
+<tr>
+<td width="150">
+<img src="assets/manwiththathat.png" width="120">
+</td>
+<td>
+
+<b>ManWithThatHat</b>
+
+There’s no one more creative than this guy (there probably is, but he’s on my team so I have to hype my team up 🙃).
+He’s also the creator of our name, logos, and most of the designs we use on our websites and apps.
+
+Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 
 </td>
 </tr>

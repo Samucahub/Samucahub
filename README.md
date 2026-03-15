@@ -27,7 +27,7 @@ Building things, breaking systems, and learning from the chaos.
   <img src="assets/mytoys.png" alt="logo"/>
 </p>
 
-# Projects
+<h2 align="left">Projects</h2>
 
 <p align="center">
   <a href="https://github.com/Samucahub/NataBase">

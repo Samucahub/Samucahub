@@ -44,11 +44,8 @@ Building things, breaking systems, and learning from the chaos.
   </a>
 </p>
 
-<p align="center">
 
-**But... what is this?**
-
-</p>
+### But... what is this?
 
 <p align="center">
   <img src="assets/beatrooter.png" alt="logo"/>

@@ -44,4 +44,10 @@ Building things, breaking systems, and learning from the chaos.
   </a>
 </p>
 
+## But... What is this?
+
+<p align="center">
+  <img src="assets/beatrooter.png" alt="logo"/>
+</p>
+
 # New Profile - Coming soon...

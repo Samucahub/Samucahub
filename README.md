@@ -13,7 +13,7 @@ Building things, breaking systems, and learning from the chaos.
 
 ---
 
-# About me
+<h1> About me </h1>
 
 > **If I had to describe myself in one sentence...**
 
